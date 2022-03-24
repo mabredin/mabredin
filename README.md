@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/mabredin/mabredin/blob/main/assets/Be.gif"><p>
+
 <h3 align="center">
   <samp>
     Hi there 👋<br/>Welcome to my GitHub!<br/>I am a beginner backend developer. I am learning Django and Django Rest Framework.
