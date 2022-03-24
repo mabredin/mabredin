@@ -1,23 +1,4 @@
-[comment]: <> (![]&#40;assets/Be.gif&#41;)
-
-[comment]: <> (### Hi there 👋)
-
-[comment]: <> (Welcome to my GitHub!)
-
-[comment]: <> (I am a beginner backend developer. I am learning Django and Django Rest Framework.)
-
-[comment]: <> (---)
-
-[comment]: <> (Tech Stack: | ![]&#40;assets/python.svg&#41; ![]&#40;assets/django.svg&#41; ![]&#40;assets/html5.svg&#41; ![]&#40;assets/css3.svg&#41; ![]&#40;assets/postgresql.svg&#41; ![]&#40;assets/gnubash.svg&#41; ![]&#40;assets/PyCharm_Icon.svg&#41; ![]&#40;assets/ccna-introduction-to-networks.png&#41;)
-
-[comment]: <> (--- | --- )
-
-[comment]: <> (Contact me: | ![]&#40;assets/telegram.svg&#41; )
-
-[comment]: <> (--- | ---)
-<p align="center"><img src="https://github.com/mabredin/mabredin/blob/main/assets/Be.gif"><p>
-
-<h4 align="center">
+<h3 align="center">
   <samp>
     Hi there 👋<br/>Welcome to my GitHub!<br/>I am a beginner backend developer. I am learning Django and Django Rest Framework.
   </samp>
