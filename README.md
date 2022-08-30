@@ -21,7 +21,7 @@
     <img width="32" src="https://github.com/mabredin/mabredin/blob/main/assets/postgresql.svg">
     <img width="32" src="https://github.com/mabredin/mabredin/blob/main/assets/gnubash.svg">
     <img width="32" src="https://github.com/mabredin/mabredin/blob/main/assets/PyCharm_Icon.svg">
-    <a href="https://www.credly.com/badges/bad70ed2-4c59-4ad4-ae77-b8001830e0a4/public_url"><img width="32" src="https://github.com/mabredin/mabredin/blob/main/assets/ccna-introduction-to-networks.png"></a>
+    <a href="https://www.credly.com/badges/2e466bd0-8be6-4c1c-8106-921e76303d5e/public_url"><img width="32" src="https://github.com/mabredin/mabredin/blob/main/assets/ccna-introduction-to-networks.png"></a>
     </td>
   </tr>  
 </table>
