@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <samp>
-    Hi there 👋 Welcome to my GitHub!<br/>I am a beginner backend developer. I like to play with Django and Django Rest Framework.
+    Hi there 👋 Welcome to my GitHub!<br/>I am a Python Backend Developer. Here you can see my public projects.
   </samp>
 </h3>
 
